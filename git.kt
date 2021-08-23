@@ -4,6 +4,7 @@ fun main (){
     val arr = mutableListOf(10, 2, 10, 3, 1, 2, 5, 2,-1, 3)
     val a = bubbleSort(arr)
     println(a)
+    println(a)
 
 
 }
